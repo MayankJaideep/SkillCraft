@@ -25,10 +25,6 @@ This script cleans and analyzes the Titanic dataset.
 - Python 3.x
 - Pandas, Matplotlib, Seaborn (`pip install pandas matplotlib seaborn`)
 
-## Usage
-Run:
-```bash
-python script_name.py
-```
+
 
 
